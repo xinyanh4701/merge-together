@@ -1,12 +1,12 @@
 # merge-together
-...  
-HI Peeps!  
-We are doing  
+...
+HI Peeps!
+We are doing
 SEP
-Merging 
+Merging
 Conflicts
 With a partner
-Xin Yan is cool 
+Xin Yan is cool
 Hey, got any grapes!
 Ling Ying is my cool partner
 
@@ -18,3 +18,5 @@ Ling Ying is my cool partner
 ```html
 <h1>hi Xin Yan</h1>
 ```
+```html
+<h1>How has your day been?</h1>
