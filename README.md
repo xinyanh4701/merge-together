@@ -8,4 +8,4 @@ Conflicts
 With a partner
 Xin Yan is cool 
 Hey, got any grapes!
-
+Ling Ying is my cool partner
